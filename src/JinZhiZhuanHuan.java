@@ -51,6 +51,11 @@ public class JinZhiZhuanHuan {
 		return nu16;
 	}
 	
+	/**
+	 * 
+	 * @param num16 16进制数
+	 * @return 10进制数
+	 */
 	public static int num16_10(String num16) {
 		int num = 0;
 		char temp ;
