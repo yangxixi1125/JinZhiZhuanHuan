@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 /**
  * 输入10进制数转化16进制，然后转10进制
+ * 现在只能转换正数
  * @author yangxixi
  *
  */
